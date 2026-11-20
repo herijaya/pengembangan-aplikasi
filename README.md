@@ -1,6 +1,6 @@
 # Pengembangan Aplikasi & Website
 
-Halo, saya **Heriyanto**. Repositori ini memperkenalkan aplikasi dan website yang saya kembangkan serta kelola.
+Halo, saya **[Heriyanto](https://www.heriyanto.web.id/)**. Repositori ini memperkenalkan aplikasi dan website yang saya kembangkan serta kelola.
 
 ## Aplikasi MAXsi
 
