@@ -1,58 +1,24 @@
-# Jasa Kelola Website Profesional – MAXsi.ID
+# Pengembangan Aplikasi & Website
 
-**MAXsi.ID** menyediakan layanan **jasa kelola website** untuk bisnis, toko online, UMKM, dan perusahaan.  
-Kami membantu Anda menjaga website tetap aman, cepat, dan SEO-friendly.
+Halo, saya **Heriyanto**. Repositori ini memperkenalkan aplikasi dan website yang saya kembangkan serta kelola.
 
-## Apa itu Jasa Kelola Website?
+## Aplikasi MAXsi
 
-Jasa kelola website adalah layanan untuk mengurus kebutuhan teknis dan konten situs Anda, seperti:
-- Update konten & artikel
-- Maintenance & keamanan
-- Optimasi SEO dasar
-- Backup & monitoring
+| Aplikasi | Kegunaan |
+| --- | --- |
+| **MAXsi Reload** | Aplikasi untuk transaksi pulsa dan produk digital. |
+| **MAXsi POS** | Aplikasi kasir dan pengelolaan toko. |
+| **MAXsi Farm** | Aplikasi untuk membantu kebutuhan petani. |
 
-## Layanan Kami
+Informasi tentang MAXsi dapat dilihat di [MAXsi.ID](https://maxsi.id).
 
-- 🌐 **Manajemen Konten** – update produk, artikel, halaman baru
-- 🔒 **Maintenance & Security** – patch, backup, SSL, monitoring
-- ⚡ **Optimasi SEO** – meta tag, sitemap, struktur internal
-- 🛒 **E-commerce Support** – dukungan toko online & katalog produk
+## Website yang Saya Kelola
 
-## Mengapa Memilih MAXsi.ID?
+| Website | Tentang |
+| --- | --- |
+| [MAXsi.ID](https://maxsi.id) | Halaman MAXsi dan informasi aplikasi. |
+| [BandungKomputer.com](https://www.bandungkomputer.com) | Website toko komputer. |
+| [Lamsel.com](https://www.lamsel.com) | Website dengan beragam topik. |
+| [Herijaya.com](https://herijaya.com) | Blog pribadi saya. |
 
-- ✅ Berpengalaman mengelola website UMKM & bisnis lokal
-- ✅ Tim teknis siap membantu 24/7
-- ✅ Harga terjangkau sesuai kebutuhan
-- ✅ Terintegrasi dengan layanan digital lain (domain, hosting, cloud)
-
-## Dokumentasi
-
-- Cara Mengelola Website
-- Paket Jasa Website
-- Tips SEO untuk Pemula
-
-## Jasa Pembuatan dan Kelola Website (contoh)
-  <ul>
-    <li><a href="https://maxsi.id/">Pulsa Murah</a></li>
-    <li><a href="https://toko.maxsi.id/">Toko Grosir Sembako Murah</a></li>
-   <li><a href="https://www.lamsel.com/">Lamsel</a></li>
-  <li><a href="https://www.bandungkomputer.com/">Bandung Komputer</a></li>
-  </ul>
-
-  Jasa Joki Admin Media Sosial
-  <ul>
-   <li><a href="https://www.facebook.com/maxsireload/">MAXsi Reload</a></li>
-   <li><a href="https://www.facebook.com/maxsijayagrosir/">Toko Sembako</a></li>
-  </ul>
-Kami tidak kerja sendiri, ada tim yang siaga standby online 24 jam 7 hari.
-Cari rezeki halal ni bro, mudah-mudah kita semua diberikan kelancaran dan keberkahan disetiap usaha dan pekerjaan yang kita jalani. aamiin...!!
-
-## Kontak
-
-📍 Website: [https://maxsi.id](https://maxsi.id)  
-📧 Email: support@maxsi.id  
-📱 WhatsApp: +62-815-9955-313
-
----
-
-© 2025 MAXsi.ID – Semua hak cipta dilindungi.
+Repositori ini menjadi tempat untuk memperkenalkan pekerjaan saya di bidang aplikasi, website, dan layanan digital.
