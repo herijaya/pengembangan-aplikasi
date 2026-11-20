@@ -6,8 +6,8 @@ Halo, saya **Heriyanto**. Repositori ini memperkenalkan aplikasi dan website yan
 
 | Aplikasi | Kegunaan |
 | --- | --- |
-| **MAXsi Reload** | Aplikasi untuk transaksi pulsa dan produk digital. |
-| **MAXsi POS** | Aplikasi kasir dan pengelolaan toko. |
+| **MAXsi Reload** | Aplikasi untuk transaksi [agen pulsa](https://maxsi.id/) dan produk digital. |
+| **MAXsi POS** | [Aplikasi kasir](https://maxsi.id/aplikasi-kasir/) dan pengelolaan toko. |
 | **MAXsi Farm** | Aplikasi untuk membantu kebutuhan petani. |
 
 Informasi tentang MAXsi dapat dilihat di [MAXsi.ID](https://maxsi.id).
